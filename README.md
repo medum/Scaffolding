@@ -1,3 +1,5 @@
+
+[CICDrecording.zip](https://github.com/medum/Scaffolding/files/6394345/CICDrecording.zip)
 Create a git hub repo 
  launch an Azure Cloud Shell environment and create an ssh keys
  
