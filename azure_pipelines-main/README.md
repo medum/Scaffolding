@@ -14,6 +14,9 @@ source ~/.flask-ml-azure/bin/activate
 3. Create an app service and initially deploy your app in Cloud Shell:
 az webapp up -n flask-ml-azure
  ![image](https://user-images.githubusercontent.com/49653011/116451385-6619ed00-a82a-11eb-9651-1a33d9956216.png)
+ sucessfull deploymnet will be as shown below:
+ ![image](https://user-images.githubusercontent.com/49653011/116484763-c6735380-a857-11eb-9043-885a28a8245b.png)
+
  4. Verify the deployed application works by browsing to the deployed url
 Go to https://flask-ml-azure.azurewebsites.net/ and you should see the same output as in the screenshot below:
 ![image](https://user-images.githubusercontent.com/49653011/116451589-b002d300-a82a-11eb-973b-14738551acc3.png)
