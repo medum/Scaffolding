@@ -19,6 +19,15 @@ Execute make all, you should see the output shown in the screen shot
   ![makeall2](https://user-images.githubusercontent.com/49653011/116294952-8d0eeb00-a766-11eb-8352-09d1e8b9500e.PNG)
 ![makeall1](https://user-images.githubusercontent.com/49653011/116294956-8da78180-a766-11eb-95f8-bb524851f123.PNG)
 
+go to git actions chick on set up a workflow yourself 
+![image](https://user-images.githubusercontent.com/49653011/116456577-6ddc9000-a830-11eb-91a4-6ceaab7590d5.png)
+modify the yml file as show below:
+![image](https://user-images.githubusercontent.com/49653011/116456801-a8dec380-a830-11eb-9334-0028ccf83221.png)
+
+this will do auto run when ever code is modified
+![image](https://user-images.githubusercontent.com/49653011/116456986-df1c4300-a830-11eb-8064-68b1781a0d57.png)
+
+
  
     
 
