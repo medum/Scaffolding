@@ -25,3 +25,7 @@ Change the line in make_predict_azure_app.sh to match the deployed prediction:
 -X POST https://<yourappname>.azurewebsites.net:$PORT/predict
 A successful prediction will look like this:
 ![image](https://user-images.githubusercontent.com/49653011/116451777-ed676080-a82a-11eb-9083-fbbd817bf982.png)
+recording:
+ 
+https://user-images.githubusercontent.com/49653011/116465149-d6306f00-a83a-11eb-90ed-02e4e77025fe.mp4
+
