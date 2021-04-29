@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/49653011/116579716-ac318800-a8e0-11eb-88d5-b7eb3f83cc27.png)
 
 [CICDrecording.zip](https://github.com/medum/Scaffolding/files/6394345/CICDrecording.zip)
 Create a git hub repo 
@@ -35,6 +36,8 @@ this will do auto run when ever code is modified
 CICDrecording.zip
 
 Azure Pipe lines:
+![image](https://user-images.githubusercontent.com/49653011/116579855-ccf9dd80-a8e0-11eb-9675-3dc1c27f9d8b.png)
+
 Step 1: Launch Cloud Shell
 Go to the Azure Console and launch a bash shell.
 ![image](https://user-images.githubusercontent.com/49653011/116450973-f0ae1c80-a829-11eb-9ebe-bf0308ca323a.png)
