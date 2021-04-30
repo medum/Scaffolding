@@ -1,3 +1,5 @@
+
+Architectural Diagram:
 ![image](https://user-images.githubusercontent.com/49653011/116579716-ac318800-a8e0-11eb-88d5-b7eb3f83cc27.png)
 
 [CICDrecording.zip](https://github.com/medum/Scaffolding/files/6394345/CICDrecording.zip)
@@ -31,11 +33,22 @@ this will do auto run when ever code is modified
 ![image](https://user-images.githubusercontent.com/49653011/116456986-df1c4300-a830-11eb-8064-68b1781a0d57.png)
 
 
- Doing recoding
+
+Future Improvement:
+ Include sulenium test cases
+ pip install -U selenium
+ sudo apt-get install -y chromium-browser
+Include load test cases 
+
+ Youtube link
+ https://youtu.be/dVtEU3GI0E4
     
-CICDrecording.zip
+
+
 
 Azure Pipe lines:
+Achitectural diagram:
+
 ![image](https://user-images.githubusercontent.com/49653011/116579855-ccf9dd80-a8e0-11eb-9675-3dc1c27f9d8b.png)
 
 Step 1: Launch Cloud Shell
@@ -74,8 +87,8 @@ Sucess Deployment:
  ![image](https://user-images.githubusercontent.com/49653011/116491645-5a4d1b80-a868-11eb-8ca2-33b9760c20ca.png)
 
 recording:
- 
-https://user-images.githubusercontent.com/49653011/116465149-d6306f00-a83a-11eb-90ed-02e4e77025fe.mp4
+ You tube link
+https://youtu.be/odHpeduCIrY
 
 
 
