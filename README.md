@@ -94,7 +94,9 @@ Sucess Deployment:
  Locust.py Output
  ![image](https://user-images.githubusercontent.com/49653011/116760582-4b3ea880-a9e3-11eb-8d21-0d308df83f64.png)
 
-
+Sucess Deployment:
+![image](https://user-![image](https://user-images.githubusercontent.com/49653011/116761264-277c6200-a9e5-11eb-9b82-b52bff0c8e15.png)images.githubusercontent.com/49653011/116761220-09166680-a9e5-11eb-8df6-73ebee873d24.png)
+![Uploading image.png…]()
 recording:
  You tube link
 https://youtu.be/odHpeduCIrY
