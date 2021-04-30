@@ -5,7 +5,8 @@ https://trello.com/invite/b/Th3WGa0i/48c7520ca8140ac3b7f3eee44dca3eb0/project-pl
 
 
 Architectural Diagram:
-![image](https://user-images.githubusercontent.com/49653011/116579716-ac318800-a8e0-11eb-88d5-b7eb3f83cc27.png)
+![image](https://user-images.githubusercontent.com/49653011/116762661-1df4f900-a9e9-11eb-9910-3d460daa79a7.png)
+
 
 
 Create a git hub repo 
@@ -52,9 +53,7 @@ Include load test cases
 
 
 Azure Pipe lines:
-Achitectural diagram:
 
-![image](https://user-images.githubusercontent.com/49653011/116579855-ccf9dd80-a8e0-11eb-9675-3dc1c27f9d8b.png)
 
 Step 1: Launch Cloud Shell
 Go to the Azure Console and launch a bash shell.
