@@ -1,8 +1,13 @@
 
+Teleboard Link
+https://trello.com/invite/b/Th3WGa0i/48c7520ca8140ac3b7f3eee44dca3eb0/project-plan
+
+
+
 Architectural Diagram:
 ![image](https://user-images.githubusercontent.com/49653011/116579716-ac318800-a8e0-11eb-88d5-b7eb3f83cc27.png)
 
-[CICDrecording.zip](https://github.com/medum/Scaffolding/files/6394345/CICDrecording.zip)
+
 Create a git hub repo 
  launch an Azure Cloud Shell environment and create an ssh keys
  
