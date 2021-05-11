@@ -1,6 +1,7 @@
 
 Teleboard Link
-https://trello.com/invite/b/Th3WGa0i/48c7520ca8140ac3b7f3eee44dca3eb0/project-plan
+Please Check the attached excel sheet[CICDProjectPlan.xlsx](https://github.com/medum/Scaffolding/files/6461368/CICDProjectPlan.xlsx)
+
 
 
 
