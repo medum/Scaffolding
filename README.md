@@ -6,7 +6,7 @@ Please Check the attached excel sheet[CICDProjectPlan.xlsx](https://github.com/m
 
 
 Architectural Diagram:
-![image](https://user-images.githubusercontent.com/49653011/116762661-1df4f900-a9e9-11eb-9910-3d460daa79a7.png)
+![image](https://user-images.githubusercontent.com/49653011/117881954-d3d90680-b277-11eb-9887-4a8377f67ca0.png)
 
 
 
