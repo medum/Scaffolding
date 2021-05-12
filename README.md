@@ -91,7 +91,12 @@ A successful prediction will look like this:
 Sucess Deployment:
  ![image](https://user-images.githubusercontent.com/49653011/116491645-5a4d1b80-a868-11eb-8ca2-33b9760c20ca.png)
  
- Locust.py Output
+ Locust.py
+ Output
+ ![image](https://user-images.githubusercontent.com/49653011/118043138-fab03f00-b342-11eb-894e-b609bc58b87d.png)
+![image](https://user-images.githubusercontent.com/49653011/118043363-4367f800-b343-11eb-8bbe-e35470c8dd6c.png)
+![image](https://user-images.githubusercontent.com/49653011/118043484-6abec500-b343-11eb-89df-8a32f5142863.png)
+
  ![image](https://user-images.githubusercontent.com/49653011/116760582-4b3ea880-a9e3-11eb-8d21-0d308df83f64.png)
 
 Sucess Deployment:
