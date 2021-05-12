@@ -91,7 +91,9 @@ A successful prediction will look like this:
  ![image](https://user-images.githubusercontent.com/49653011/116491574-34277b80-a868-11eb-893e-3297b8413f96.png)
 Sucess Deployment:
  ![image](https://user-images.githubusercontent.com/49653011/116491645-5a4d1b80-a868-11eb-8ca2-33b9760c20ca.png)
- 
+ ![image](https://user-images.githubusercontent.com/49653011/118049823-4fa48300-b34c-11eb-81ac-48a35d7b69d6.png)
+![image](https://user-images.githubusercontent.com/49653011/118049882-65b24380-b34c-11eb-8015-888cc270cdfb.png)
+
  Locust.py
  Output
  ![image](https://user-images.githubusercontent.com/49653011/118043138-fab03f00-b342-11eb-894e-b609bc58b87d.png)
@@ -101,6 +103,9 @@ Sucess Deployment:
  ![image](https://user-images.githubusercontent.com/49653011/116760582-4b3ea880-a9e3-11eb-8d21-0d308df83f64.png)
 
 Sucess Deployment:
+![image](https://user-images.githubusercontent.com/49653011/118049679-15d37c80-b34c-11eb-9f6f-ba5c496b2d16.png)
+![image](https://user-images.githubusercontent.com/49653011/118049738-30a5f100-b34c-11eb-896b-3c5cb3d20ad6.png)
+
 ![image](https://user-images.githubusercontent.com/49653011/117856950-433ffd80-b25a-11eb-862b-7b2e4660d7f1.png)
 
 ![image](https://user-images.githubusercontent.com/49653011/117854759-cca20080-b257-11eb-8d76-10a645dc22db.png)
