@@ -100,6 +100,8 @@ Sucess Deployment:
 ![image](https://user-images.githubusercontent.com/49653011/118043484-6abec500-b343-11eb-89df-8a32f5142863.png)
 
  ![image](https://user-images.githubusercontent.com/49653011/116760582-4b3ea880-a9e3-11eb-8d21-0d308df83f64.png)
+locust Predection out put:
+![image](https://user-images.githubusercontent.com/49653011/118168841-4a9c0e00-b3f6-11eb-87e6-2ad5fbbd7ebf.png)
 
 Sucess Deployment:
 ![image](https://user-images.githubusercontent.com/49653011/118049679-15d37c80-b34c-11eb-9f6f-ba5c496b2d16.png)
@@ -115,5 +117,9 @@ recording:
  You tube link
 https://youtu.be/fDYkBap5KKU
 
+Notes
+For futer reading on locust follow below:
+https://github.com/medum/Learn-Locust-Series
+Locust cannot be done using portal, need to setup in your local, for this project i have used pycharm.
 
 
