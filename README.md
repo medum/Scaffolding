@@ -1,8 +1,7 @@
 
 Teleboard Link
-Please Check the attached excel sheet[CICDProjectPlan.xlsx](https://github.com/medum/Scaffolding/files/6461368/CICDProjectPlan.xlsx)
-
-
+https://trello.com/b/Th3WGa0i/project-plan
+Please Check the attached excel sheet[CICDProjectPlan.xlsx](https://github.com/medum/Scaffolding/files/6473127/CICDProjectPlan.xlsx)
 
 
 Architectural Diagram:
